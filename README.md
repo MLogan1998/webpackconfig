@@ -19,12 +19,12 @@
 1. Create `.gitignore`
      
       ```
-       .vscode/
-       .DS_Store
-       package-lock.json
-       node_modules/
-       dist/
-       build/
+      .vscode/
+      .DS_Store
+      package-lock.json
+      node_modules/
+      dist/
+      build/
       .firebase/
       ```
       
